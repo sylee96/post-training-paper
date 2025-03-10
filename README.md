@@ -10,3 +10,8 @@
 - SFT는 암기와 같은 것이라 OOD(Out-of-Distribution)에 대해서는 성능 저하가 올 수 있음.
 - RL은 일반화를 하게 해줌. 그래서 visual recognition 능력도 더 좋음.
 - 그렇다고 SFT가 필요없는 것은 아님. RL을 안정적으로 학습할 수 있게 포맷을 안정적이게 해줌.
+
+
+[A COMPARATIVE STUDY ON REASONING PATTERNS OF OPENAI’S O1 MODEL [2410]](https://arxiv.org/pdf/2410.13639)
+
+[s1: Simple test-time scaling [2501]](https://arxiv.org/abs/2501.19393)
