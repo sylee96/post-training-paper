@@ -15,3 +15,5 @@
 [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model [2410]](https://arxiv.org/pdf/2410.13639)
 
 [s1: Simple test-time scaling [2501]](https://arxiv.org/abs/2501.19393)
+
+[Let's Verify Step by Step [2305]](https://arxiv.org/pdf/2305.20050)
