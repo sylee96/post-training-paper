@@ -18,6 +18,6 @@
 
 [Let's Verify Step by Step [2305, OpenAI]](https://arxiv.org/pdf/2305.20050)
 
-[V-STaR: Training Verifiers for Self-Taught Reasoners [2408, Microsoft](https://arxiv.org/pdf/2402.06457)
+[V-STaR: Training Verifiers for Self-Taught Reasoners [2408, Microsoft]](https://arxiv.org/pdf/2402.06457)
 
 
