@@ -1,6 +1,6 @@
 # post-training-paper
 
-[A General Language Assistant as a Laboratory for Alignment [2112]](https://arxiv.org/pdf/2112.00861)
+[A General Language Assistant as a Laboratory for Alignment [2112, Anthropic]](https://arxiv.org/pdf/2112.00861)
 - Prompting Techniques: 간단한 프롬프트 기법이 유용성, 정직성, 무해성을 향상시킬 수 있으며, 이는 모델 성능 저하 없이 가능.
 - Preference Modeling: Imitation learning보다 preference modeling이 우수하며, ranked data에서 특히 효과적.
 - Pretraining Preference Models: Stack Exchange, Reddit, Wikipedia 같은 대규모 공개 데이터를 활용한 사전 훈련이 효율성을 크게 높임.
@@ -16,4 +16,8 @@
 
 [s1: Simple test-time scaling [2501]](https://arxiv.org/abs/2501.19393)
 
-[Let's Verify Step by Step [2305]](https://arxiv.org/pdf/2305.20050)
+[Let's Verify Step by Step [2305, OpenAI]](https://arxiv.org/pdf/2305.20050)
+
+[V-STaR: Training Verifiers for Self-Taught Reasoners [2408, Microsoft](https://arxiv.org/pdf/2402.06457)
+
+
